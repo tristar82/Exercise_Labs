@@ -138,4 +138,8 @@ fabric.properties
 # Ignore all local history of files
 .history
 
+<<<<<<< HEAD
 # End of https://www.gitignore.io/api/macos,pycharm,jupyternotebook,visualstudiocode,jupyternotebooks
+=======
+# End of https://www.gitignore.io/api/macos,pycharm,jupyternotebook,visualstudiocode,jupyternotebooks
+>>>>>>> lab-advanced-regex/master
